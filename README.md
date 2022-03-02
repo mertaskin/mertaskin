@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <br>
 </p>
 
-<p align="center"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<i><b>Languages I Know...<i><b>
+<p align="center"> <i><b>Languages I Know...<i><b>
 
 <p align="center">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <i><b>GitHub Stats</b></i>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertaskin&show_icons=true&locale=en&layout=compact" alt="mertaskin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertaskin&show_icons=true&locale=en" alt="mertaskin" width="410" /></p>
